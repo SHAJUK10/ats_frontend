@@ -1,0 +1,17 @@
+{
+  "name": "ResumeIQ — ATS Intelligence",
+  "short_name": "ResumeIQ",
+  "description": "AI-powered ATS resume analyzer by CometCode Innovations",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070b12",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
